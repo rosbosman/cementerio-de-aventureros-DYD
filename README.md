@@ -20,10 +20,10 @@ Este proyecto es un portafolio web personal construido para la asignatura Desarr
   * **Escritorio (1024px):** Grid de 3 columnas para mostrar a Sildra, Aldric y Torgun simultáneamente.
 
 ## Capturas de Pantalla
-* [Vista Escritorio](img/escritorio.png)
-* [Vista Tablet](img/tablet.png)
-* [Vista Móvil](img/movil.png)
-* [Evidencia de Accesibilidad (Foco de Teclado)](img/foco-teclado.png)
+* [Vista Escritorio](img/capturas/escritorio.png)
+* [Vista Tablet](img/capturas/tablet.png)
+* [Vista Móvil](img/capturas/movil.png)
+* [Evidencia de Accesibilidad (Foco de Teclado)](img/capturas/foco-teclado.png)
 
 ## Cómo abrirlo
 1. Descarga el repositorio o descomprime el archivo ZIP.
